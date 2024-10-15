@@ -1,0 +1,30 @@
+body {
+    
+    font-size: large;
+    background-color: #E1E5F2;
+    
+}
+#qualquer {
+    text-align: center;
+    align-items: center;
+    }
+
+hr {
+    font-size: 20px;
+    border-width: 5px;
+    
+}
+
+img {
+    
+    box-shadow: 10px 10px 10px; 
+    color: #736F72;
+}
+
+ aside{
+    float: right;
+ }
+
+ pre {
+    font-family: ;
+ }
